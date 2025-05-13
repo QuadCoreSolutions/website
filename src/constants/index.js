@@ -62,47 +62,47 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Working with this enthusiastic and sharp team was a refreshing experience. Their passion for technology and problem-solving really stood out.",
-    name: "Priya Mehta",
-    title: "Product Manager, Early-Stage Startup",
+      "What sets this team apart is their deep understanding of Agentic AI and orchestration frameworks. They're not just using AI — they're shaping how it will be built.",
+    name: "Dr. Aakash Verma",
+    title: "AI Researcher & Consultant",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "They brought fresh ideas to the table and were incredibly responsive throughout. A great team to collaborate with on new initiatives.",
-    name: "Aarav Deshmukh",
-    title: "Co-founder, Digital Services",
+      "Their work on Retrieval-Augmented Generation (RAG) blew me away. They’re clearly aligned with where AI is heading — context-aware, dynamic, and real-time.",
+    name: "Maya Singh",
+    title: "Co-founder, Applied AI Studio",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "Young, energetic, and forward-thinking — they showed real potential and delivered with clarity and focus.",
-    name: "Sarah Malik",
-    title: "Operations Lead, Creative Agency",
+      "You rarely see early teams so fluent in open-source LLM stacks, agents, and vector pipelines. Their focus on solving real-world problems with smart, modular AI is refreshing.",
+    name: "Rahul Sharma",
+    title: "Tech Evangelist, AI Community India",
     img: people03,
   },
 ];
 
-
 export const stats = [
   {
     id: "stats-1",
-    title: "Industry Experience",
-    value: "20+ Years",
+    title: "Team Expertise",
+    value: "50+ Years Combined",
   },
   {
     id: "stats-2",
-    title: "AI Implementation Success",
-    value: "95%",
+    title: "Products In Progress",
+    value: "3 AI-Driven Platforms",
   },
   {
     id: "stats-3",
-    title: "Innovation Milestones Achieved",
-    value: "15+",
+    title: "AI Capabilities",
+    value: "GenAI, NLP, Automation",
   },
 ];
+
 
 
 export const footerLinks = [
@@ -141,10 +141,6 @@ export const footerLinks = [
       {
         name: "Web Development",
         link: "/solutions/web",
-      },
-      {
-        name: "Mobile Apps",
-        link: "/solutions/mobile",
       },
       {
         name: "Data Engineering",
