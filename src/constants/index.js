@@ -70,7 +70,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Their work on Retrieval-Augmented Generation (RAG) blew me away. They’re clearly aligned with where AI is heading — context-aware, dynamic, and real-time.",
+      "Their work on Retrieval-Augmented Generation (RAG) blew me away. They're clearly aligned with where AI is heading — context-aware, dynamic, and real-time.",
     name: "Maya Singh",
     title: "Co-founder, Applied AI Studio",
     img: people02,
@@ -99,7 +99,7 @@ export const stats = [
   {
     id: "stats-3",
     title: "AI Capabilities",
-    value: "GenAI, NLP, Automation",
+    value: "GenAI, NLP, AgenticAI, RAG",
   },
 ];
 
